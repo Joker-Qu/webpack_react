@@ -29,3 +29,8 @@ if (isDev) {
 historyApiFallback: {
       index: '/public/index.html'
     }
+
+
+.editorconfig
+
+sudo npm i husky -D
